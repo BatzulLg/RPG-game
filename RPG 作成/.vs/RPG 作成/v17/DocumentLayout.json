@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student9\\source\\repos\\RPG \u4F5C\u6210\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{507A674C-ECF5-4022-9992-B94186BFA0C0}|RPG \u4F5C\u6210\\RPG \u4F5C\u6210.csproj|c:\\users\\student9\\source\\repos\\rpg \u4F5C\u6210\\rpg \u4F5C\u6210\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507A674C-ECF5-4022-9992-B94186BFA0C0}|RPG \u4F5C\u6210\\RPG \u4F5C\u6210.csproj|solutionrelative:rpg \u4F5C\u6210\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student9\\source\\repos\\RPG \u4F5C\u6210\\RPG \u4F5C\u6210\\Program.cs",
+              "RelativeDocumentMoniker": "RPG \u4F5C\u6210\\Program.cs",
+              "ToolTip": "C:\\Users\\Student9\\source\\repos\\RPG \u4F5C\u6210\\RPG \u4F5C\u6210\\Program.cs",
+              "RelativeToolTip": "RPG \u4F5C\u6210\\Program.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAADwv+IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:28:30.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
